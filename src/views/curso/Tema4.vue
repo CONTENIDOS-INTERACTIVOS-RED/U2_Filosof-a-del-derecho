@@ -4,10 +4,10 @@
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.overflow-hidden
 
       .row.mb-4.mx-0
-        .col-12.col-xl-8.d-flex.align-items-center.bg-azul-claro.p-4(data-aos="fade-up")
-          p.mb-0 La autoridad es un concepto central en la organización de las sociedades, porque implica la capacidad de influir, dirigir y normar el comportamiento de los individuos dentro de un grupo o comunidad. Desde la filosofía y el derecho, la autoridad ha sido analizada en función de su legitimidad, su origen y sus límites. En este texto, exploraremos la autoridad en la filosofía, su papel en el derecho y su interpretación desde el iusnaturalismo y el positivismo jurídico.
         .d-none.d-xl-block.col-4.px-0
           img.h-100(src='@/assets/curso/unidad/img-46.png', alt='Texto que describa la imagen')
+        .col-12.col-xl-8.d-flex.align-items-center.bg-azul-1.p-4(data-aos="fade-up")
+          p.mb-0 La autoridad es un concepto central en la organización de las sociedades, porque implica la capacidad de influir, dirigir y normar el comportamiento de los individuos dentro de un grupo o comunidad. Desde la filosofía y el derecho, la autoridad ha sido analizada en función de su legitimidad, su origen y sus límites. En este texto, exploraremos la autoridad en la filosofía, su papel en el derecho y su interpretación desde el iusnaturalismo y el positivismo jurídico.
 
       #t_4_1.titulo-segundo(data-aos="flip-up")
         div.d-flex

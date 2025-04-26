@@ -92,14 +92,14 @@
 
       .row.mb-4
         .col-10.col-lg-6.col-xl-4.mx-auto(data-aos='fade-up')
-          .bg-azul.p-4.d-flex
+          .bg-azul.p-4.d-flex.h-100
             p.text-white.text-center El concepto central es el imperativo categórico, que ordena actuar solo, según máximas que puedan convertirse en leyes universales.
         .col-10.col-lg-6.col-xl-4.mx-auto(data-aos='fade-up')
-          .bg-azul.p-4.d-flex
-            p.text-white.text-center El deber es incondicional y autónomo, lo que significa que no depende de la experiencia, la cultura o los deseos individuales. 
-        .col-10.col-lg-6.col-xl-4.mx-auto(data-aos='fade-up')
-          .bg-azul-oscuro.p-4.d-flex
+          .bg-azul-oscuro.p-4.d-flex.h-100
             p.text-white.text-center Cumplir el deber implica actuar por respeto a la ley moral, no por miedo al castigo ni por interés en una recompensa.
+        .col-10.col-lg-6.col-xl-4.mx-auto(data-aos='fade-up')
+          .bg-azul.p-4.d-flex.h-100
+            p.text-white.text-center El deber es incondicional y autónomo, lo que significa que no depende de la experiencia, la cultura o los deseos individuales. 
       
       h2 El deber en el positivismo jurídico
       .row.mb-4.mx-0
