@@ -1,1 +1,1 @@
-module.exports = 'Concepto de filosofía del Derecho'
+module.exports = 'El iusnaturalismo y el positivismo jurídico'

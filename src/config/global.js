@@ -1,7 +1,7 @@
 export default {
   global: {
-    numeroUnidad: '1',
-    tituloUnidad: 'Concepto de filosofía del Derecho',
+    numeroUnidad: '2',
+    tituloUnidad: 'El iusnaturalismo y el positivismo jurídico',
   },
   menuPrincipal: {
     menu: [
@@ -15,26 +15,20 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Ejes filosóficos del Derecho',
+        titulo: 'Presentación',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Ontología del Derecho: la naturaleza del Derecho',
+            titulo: 'El iusnaturalismo',
             hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Epistemología jurídica: el conocimiento del Derecho',
+            titulo: 'El positivismo jurídico',
             hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Axiología del Derecho: los valores y la justicia',
-            hash: 't_1_3',
           },
         ],
       },
@@ -42,32 +36,27 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'El concepto de filosofía del Derecho',
+        titulo: 'La libertad',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'La filosofía del Derecho y las demás ramas jurídicas',
+            titulo: 'La libertad en la filosofía',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Metodología y enfoques en la filosofía del Derecho',
+            titulo: 'La libertad en el Derecho',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'La relación entre filosofía y Derecho',
+            titulo:
+              'La Libertad en el iusnaturalismo y en el positivismo jurídico',
             hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'La estructura normativa del Derecho',
-            hash: 't_2_4',
           },
         ],
       },
@@ -75,42 +64,82 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'La filosofía del Derecho como saber jurídico',
+        titulo: 'La violencia',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'La filosofía del Derecho y su relación con el ordenamiento jurídico',
+            titulo: 'La violencia en la filosofía',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo:
-              'La ciencia jurídica y la filosofía del Derecho como fundamento de la Ciencia Jurídica',
+            titulo: 'La libertad en el Derecho',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Objeto de estudio de la filosofía como saber jurídico',
+            titulo: 'La violencia en los enfoques iusnaturalista y positivista',
             hash: 't_3_3',
           },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'La autoridad',
+        desarrolloContenidos: true,
+        subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo:
-              'La interpretación y aplicación del Derecho desde la filosofía',
-            hash: 't_3_4',
+            numero: '4.1',
+            titulo: 'La autoridad en la filosofía',
+            hash: 't_4_1',
           },
           {
             icono: 'far fa-file-alt',
-            numero: '3.5',
+            numero: '4.2',
+            titulo: 'La autoridad en el Derecho',
+            hash: 't_4_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '4.3',
             titulo:
-              'Retos contemporáneos en la interpretación y aplicación del Derecho',
-            hash: 't_3_5',
+              'La autoridad en el iusnaturalismo y en el positivismo jurídico',
+            hash: 't_4_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        icono: 'far fa-file-alt',
+        numero: '5',
+        titulo: '',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.1',
+            titulo: 'El deber en la filosofía',
+            hash: 't_5_1',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.2',
+            titulo: 'El deber en el Derecho',
+            hash: 't_5_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '5.3',
+            titulo:
+              'El deber en el iusnaturalismo y en el positivismo jurídico',
+            hash: 't_5_3',
           },
         ],
       },
@@ -152,86 +181,83 @@ export default {
   referencias: [
     {
       referencia:
-        'Gómez Gallardo, P. (2017). Filosofía del derecho (2 ed.). IURE Editores.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/40200',
+        'Chomsky, N & Saramago, J. (2017) Temas de filosofía del derecho. Editorial: Corporación de Estudios y Publicaciones.',
+      link:
+        'https://elibro.net/es/ereader/tecnologicadeloriente/116618/?fs_q=Contratos%20derecho%20civil&prev=fs',
     },
     {
       referencia:
-        'Hernández, J (2020) Nociones de hermenéutica e interpretación jurídica en el contexto mexicano. UNAM',
+        'Fau, M. (2011). John Locke: clásicos resumidos. Editorial: La Bisagra.',
       link:
-        'https://biblio.juridicas.unam.mx/bjv/detalle-libro/5649-nociones-de-hermeneutica-e-interpretacion-juridica-en-el-contexto-mexicano',
+        'https://elibro.net/es/ereader/tecnologicadeloriente/76836?fs_q=Contratos%20derecho%20civil&prev=fs',
     },
     {
-      referencia: 'Sandel, M (2018). Justicia ¿hacemos lo que debemos?. Debate',
-      link: 'https://www.academia.edu/34763569/JUSTICIA_Michael_Sandel',
+      referencia: 'Kelsen, H. (2010). Teoría pura del derecho: (ed.). Eudeba.',
+      link:
+        'https://elibro.net/es/lc/tecnologicadeloriente/titulos/66163?as_all=kelsen&as_all_op=unaccent__icontains&prev=as',
     },
     {
       referencia:
-        'Castro, E (2019). Filosofía del Derecho. Consejo Superior de la Judicatura, Escuela Judicial "Rodrigo Lara Bonilla"',
-      link:
-        'https://escuelajudicial.ramajudicial.gov.co/Videos/campus/medios/docs/FILOSOFIA.pdf',
+        'Matos, A. S. de M. C. (2019). Revolución, violencia y Derecho: Hans Kelsen y el surgimiento de la Constitución Federal Brasileña de 1934. DOXA. Cuadernos De Filosofía Del Derecho, (42), 63–84',
+      link: 'https://rua.ua.es/dspace/bitstream/10045/99635/1/DOXA_42_03.pdf',
     },
     {
-      referencia: 'Rüthers, B (2018). Teoría General del Derecho. Temis',
+      referencia:
+        'Paulson, S. L. (2012). La interpretación débil de la autoridad en la Teoría Pura del Derecho de Hans Kelsen. Revista derecho del Estado, (29), 5–49',
       link:
-        'https://api.pageplace.de/preview/DT0400.9789583514173_A42960221/preview-9789583514173_A42960221.pdf',
+        'https://revistas.uexternado.edu.co/index.php/derest/article/view/3291/2941',
     },
   ],
   glosario: [
     {
-      termino: 'Ciencia jurídica',
+      termino: 'Autoridad',
       significado:
-        'Conjunto de conocimientos sistemáticos sobre el Derecho, que busca describir, interpretar y sistematizar las normas jurídicas.',
+        'Capacidad legítima de una persona o institución para ordenar, dirigir o tomar decisiones vinculantes. En el derecho, la autoridad se fundamenta en normas jurídicas que confieren poder de mando y exigibilidad.',
     },
     {
-      termino: 'Derecho positivo',
+      termino: 'Deber',
       significado:
-        'Conjunto de normas jurídicas establecidas y en vigor en un determinado tiempo y lugar, creadas por una autoridad legítima.',
+        'Obligación jurídica o moral que impone una conducta determinada a una persona o grupo. En el derecho, los deberes pueden derivar de normas legales, contratos o principios éticos.',
     },
     {
-      termino: 'Epistemología jurídica',
+      termino: 'Estado de naturaleza',
       significado:
-        'Disciplina que estudia el conocimiento del Derecho, analizando su origen, validez, método y límites.',
-    },
-    {
-      termino: 'Filosofía del derecho',
-      significado:
-        'Rama de la filosofía que reflexiona sobre la esencia, fundamentos y valores del Derecho, así como su relación con la justicia y la moral.',
-    },
-    {
-      termino: 'Imperativo categórico',
-      significado:
-        'Principio formulado por Kant que ordena actuar conforme a normas morales universales, independientemente de cualquier condición o consecuencia.',
-    },
-    {
-      termino: 'Imperativo hipotético',
-      significado:
-        'Principio kantiano que ordena una acción como medio para alcanzar un fin determinado, dependiendo de condiciones específicas.',
+        'Concepto filosófico utilizado por teóricos del derecho y la política (como Hobbes, Locke y Rousseau) para describir la condición humana antes de la existencia del Estado y las Leyes. Dependiendo del autor, se concibe como un estado de libertad, igualdad o conflicto permanente.',
     },
     {
       termino: 'Iusnaturalismo',
       significado:
-        'Corriente filosófico-jurídica que sostiene la existencia de un Derecho natural, basado en principios universales e inmutables, anteriores y superiores al derecho positivo.',
+        'Corriente filosófica del derecho que sostiene la existencia de principios jurídicos universales y eternos, derivados de la naturaleza humana o de un orden moral superior, y que sirven como criterio de validez para el derecho positivo.',
     },
     {
-      termino: 'Justicia',
+      termino: 'Iuspositivismo',
       significado:
-        'Valor fundamental del Derecho que implica dar a cada quien lo que le corresponde, garantizando la equidad y el respeto a los derechos de las personas.',
+        'Doctrina jurídica que afirma que el derecho es un conjunto de normas creadas y aplicadas por el Estado, independientemente de su contenido moral. Según esta corriente, la validez del derecho depende de su origen y no de su justicia.',
     },
     {
-      termino: 'Moral',
+      termino: 'Legitimidad',
       significado:
-        'Conjunto de principios y valores que orientan la conducta humana en función del bien y el mal, influyendo en la formulación del Derecho.',
+        'Calidad de una norma, institución o acto jurídico que es aceptado como válido y justo por la comunidad. Puede basarse en el derecho positivo (legalidad) o en principios éticos y sociales más amplios.',
     },
     {
-      termino: 'Ontología del derecho',
+      termino: 'Libertad',
       significado:
-        'Rama de la Filosofía del Derecho que estudia la naturaleza, estructura y existencia del Derecho como fenómeno normativo y social.',
+        'Facultad del ser humano de actuar según su voluntad dentro de los límites establecidos por el derecho y la moral. Puede entenderse como un derecho fundamental que garantiza la autonomía individual frente a la coerción injustificada.',
     },
     {
-      termino: 'Positivismo jurídico',
+      termino: 'Naturaleza humana',
       significado:
-        'Corriente filosófico-jurídica que sostiene que el Derecho es un sistema de normas creado por la autoridad competente, sin necesidad de fundamentación en principios morales o naturales.',
+        'Conjunto de características esenciales y distintivas del ser humano, que pueden incluir la racionalidad, la sociabilidad y la tendencia a crear normas y valores. En filosofía y derecho, es un concepto clave para teorías sobre los derechos naturales y la moralidad.',
+    },
+    {
+      termino: 'Ordenamiento jurídico',
+      significado:
+        'Conjunto de normas jurídicas que rigen la vida en sociedad, organizadas de manera sistemática y jerárquica. Su estructura suele estar encabezada por la Constitución, seguida de Leyes, reglamentos y otras disposiciones normativas.',
+    },
+    {
+      termino: 'Violencia',
+      significado:
+        'Uso de la fuerza, ya sea física, psicológica o simbólica, para imponer una voluntad sobre otra persona o grupo. En el ámbito jurídico, puede analizarse desde el derecho penal, el derecho civil (vicios del consentimiento) o los derechos humanos.',
     },
   ],
 }

@@ -2,7 +2,7 @@
   .curso-main-container.creditos-vista
     BannerInterno(subTitulo="SÍNTESIS")
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-      p(data-aos="fade-up").mb-5 La unidad 1: Concepto de filosofía del Derecho, proporciona las bases teóricas fundamentales para comprender el Derecho desde una perspectiva crítica, reflexiva y argumentativa. Esta unidad explora los ejes filosóficos del Derecho —ontología, epistemología y axiología—, así como su relación con la moral, la justicia y la legitimidad del orden jurídico. Este enfoque integral permite que los estudiantes desarrollen una comprensión profunda del Derecho como un fenómeno normativo y social, sustentado en principios filosóficos, lo que fortalece su capacidad para interpretar, aplicar y transformar el Derecho en contextos contemporáneos.
+      p(data-aos="fade-up").mb-5 La unidad 2: El iusnaturalismo y el positivismo jurídico, proporciona los fundamentos filosóficos para comprender las distintas concepciones sobre el origen, validez y legitimidad del Derecho. A través del análisis comparado entre ambas corrientes, se abordan conceptos clave como la libertad, la violencia, la autoridad y el deber, permitiendo al estudiante reflexionar críticamente sobre la relación entre Derecho, moral y justicia. Esta unidad fortalece la capacidad argumentativa del futuro jurista, promoviendo una comprensión profunda del Derecho más allá de su dimensión normativa.
 
       .row.justify-content-center
         .col-lg-12.mb-5
