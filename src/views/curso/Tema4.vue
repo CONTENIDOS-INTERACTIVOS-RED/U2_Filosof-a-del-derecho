@@ -81,7 +81,7 @@
           .col-12.col-xl-7.d-flex.pe-4.pe-xl-5.align-items-center.flex-column
             h2.mb-4.pb-2.me-auto La autoridad en el iusnaturalismo y en el positivismo jurídico
             p.mb-5(data-aos="fade-up") En el PDF La autoridad en el iusnaturalismo y en el positivismo jurídico , se examinan los fundamentos filosófico-jurídicos que sustentan el concepto de autoridad, destacando cómo cada corriente la concibe, justifica y limita, según principios morales o criterios normativos, y cómo estas visiones influyen en la legitimidad del poder en los sistemas jurídicos contemporáneos.
-            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/.pdf')" target="_blank")
+            a.d-flex.me-auto.w-fit.bg-white.box-shadow.cursor-pointer(data-aos="fade-up" :href="obtenerLink('/downloads/Anexos_La autoridad en el iusnaturalismo y en el positivismo jurídico.pdf')" target="_blank")
               img.h-100(style="width: 48px" src='@/assets/componentes/pdf-icon-square.svg', alt='Texto que describa la imagen')
               p.text-small.fs-14px.my-auto.px-2 <strong>Anexo.</strong> La autoridad en el iusnaturalismo y en el positivismo jurídico
           .d-none.d-xl-block.col-xl-5.mx-auto.mt-4.mt-xl-0(data-aos="zoom-in")
