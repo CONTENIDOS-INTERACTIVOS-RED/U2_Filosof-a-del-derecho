@@ -76,7 +76,7 @@
 
       .d-flex.align-items-start.bg-verde-oscuro.bg-full-width.p-4(data-aos='fade-up').d-flex.align-items-center.flex-column.flex-md-row.mb-4
         img.me-3(style='width: 90px' src='@/assets/curso/unidad/img-44.svg', alt='Texto descriptivo de la imagen')
-        .my-auto
+        .my-auto.px-4.px-md-0
           p.pe-xl-3.mb-0.text-white Desde el derecho positivo, la violencia se regula a través de normas que buscan prevenirla, sancionarla y reparar sus efectos. En muchos sistemas jurídicos, la legitimidad del uso de la fuerza depende de su proporcionalidad y justificación, como en casos de legítima defensa o el uso de la fuerza pública en el marco de la Ley.
 
       #t_3_3.titulo-segundo(data-aos="flip-up")
@@ -90,7 +90,7 @@
         div.px-5.pb-md-3
           figure
             .video
-              <iframe width="1905" height="748" src="https://www.youtube.com/embed/ckUeCMMUAew" title="Bienvenida asignatura Filosofía del Derecho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              <iframe width="1905" height="748" src="https://www.youtube.com/embed/nnxhpdeAt-4" title="Violencia de enfoque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
       .row.bg-verde.bg-full-width.p-4.py-xl-0.mb-5
         .col-12.col-xl-10.d-flex
