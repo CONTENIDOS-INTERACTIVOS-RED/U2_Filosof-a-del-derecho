@@ -22,7 +22,7 @@
     
     .row.bg-verde-oscuro.bg-full-width.p-4.py-xl-0
       .col-12.col-xl-8.d-flex
-        p.my-auto.text-white Para los futuros profesionales del derecho, el debate entre iusnaturalismo y positivismo jurídico, es clave para comprender el fundamento y la legitimidad de las normas que aplicarán en su ejercicio profesional. Esta discusión no es meramente teórica, sino que impacta directamente en la interpretación y aplicación del derecho en casos donde las normas pueden entrar en tensión con principios éticos o derechos fundamentales. Un abogado, juez o legislador, debe estar preparado para enfrentar situaciones en las que el derecho vigente pueda parecer injusto o en las que se deba argumentar sobre la validez de una norma, más allá de su origen formal.
+        p.my-auto.text-white.px-3.px-xl-0 Para los futuros profesionales del derecho, el debate entre iusnaturalismo y positivismo jurídico, es clave para comprender el fundamento y la legitimidad de las normas que aplicarán en su ejercicio profesional. Esta discusión no es meramente teórica, sino que impacta directamente en la interpretación y aplicación del derecho en casos donde las normas pueden entrar en tensión con principios éticos o derechos fundamentales. Un abogado, juez o legislador, debe estar preparado para enfrentar situaciones en las que el derecho vigente pueda parecer injusto o en las que se deba argumentar sobre la validez de una norma, más allá de su origen formal.
       .col-4.d-none.d-xl-block
         img(src='@/assets/curso/unidad/img-4.png', alt='Texto que describa la imagen')
     

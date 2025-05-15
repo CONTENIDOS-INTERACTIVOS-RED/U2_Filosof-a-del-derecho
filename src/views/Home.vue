@@ -22,9 +22,9 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 Desde sus orígenes, el Derecho ha estado vinculado a profundas reflexiones sobre la justicia, la moral y la organización de la vida en sociedad. En esta primera unidad, se abordará la filosofía del Derecho como disciplina esencial para comprender no solo el contenido normativo, sino también los fundamentos éticos y teóricos que le dan sentido. A través del estudio de sus ejes filosóficos, se analizarán los valores que sustentan el orden jurídico y su aplicación en contextos cambiantes y complejos.
+              p.descripcion.mb-4 Desde los orígenes del pensamiento jurídico, distintas corrientes han intentado responder qué hace válido al Derecho. En esta unidad, se profundiza en el estudio del iusnaturalismo y el positivismo jurídico, corrientes filosóficas que plantean visiones opuestas sobre el origen y legitimidad de las normas. A través del análisis de conceptos como libertad, violencia, autoridad y deber, se invita al estudiante a reflexionar críticamente sobre el papel del Derecho en la sociedad y su vínculo con la moral, la justicia y el poder.
 
-              p #[b ¡Prepárese para desarrollar una visión crítica y argumentativa del Derecho desde sus fundamentos filosóficos!]
+              p #[b ¡Prepárese para argumentar con fundamentos filosófico-jurídicos los desafíos del Derecho en contextos éticos y sociales diversos!]
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
